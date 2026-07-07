@@ -1,5 +1,5 @@
 
-# 🏅 Olympic Insights Dashboard # (Power BI)
+# 🏅 Olympic Insights Dashboard (Power BI)
 
 ## 📷 Dashboard Preview
 
