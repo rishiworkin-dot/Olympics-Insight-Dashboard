@@ -35,11 +35,8 @@ The primary objective of this project is to transform raw Olympic data into an i
 ✨ Interactive filters for:
 
 * 📅 Year
-
 * 🌎 Country
-  
 * ❄️☀️ Season (Winter & Summer)
-
 * 🚻 Gender
 
 
