@@ -34,45 +34,45 @@ The primary objective of this project is to transform raw Olympic data into an i
 
 ✨ Interactive filters for:
 
-📅 Year
-🌎 Country
-❄️☀️ Season (Winter & Summer)
-🚻 Gender
+* 📅 Year
+* 🌎 Country
+* ❄️☀️ Season (Winter & Summer)
+* 🚻 Gender
 
 ---
 
 
 ## 📊 Visualizations Included:
 
-📈 Participation Trends Over the Years
-🥇 Sport-wise Medal Distribution (Gold, Silver & Bronze)
-🗺️ Global Medal Distribution Map
-🏆 Top 10 Athletes by Total Medals
-👨‍🦱👩 Gender-wise Sports Participation
-📌 Dynamic KPI Cards
-🔍 Key Insights
-🥇 Analyze Olympic participation trends over time.
-🌍 Compare medal-winning performance across countries.
-🏆 Identify the top-performing athletes in Olympic history.
-🏅 Explore medal distribution across different sports.
-👥 Understand gender participation across Olympic events.
-🗺️ Visualize the global distribution of Olympic medals.
-🛠️ Tools & Technologies
-📊 Power BI
-🧹 Power Query (Data Cleaning & Transformation)
-📐 DAX (Data Analysis Expressions)
-📂 Data Modeling
-📈 Interactive Visualizations
-🎨 Dashboard Design
-🚀 Skills Demonstrated
-📊 Data Visualization
-📈 Business Intelligence
-🧹 Data Cleaning & Transformation
-📌 KPI Design
-📊 Dashboard Development
-🔍 Data Analysis
-📉 Trend Analysis
-🌍 Geospatial Visualization
+* 📈 Participation Trends Over the Years
+* 🥇 Sport-wise Medal Distribution (Gold, Silver & Bronze)
+* 🗺️ Global Medal Distribution Map
+* 🏆 Top 10 Athletes by Total Medals
+* 👨‍🦱👩 Gender-wise Sports Participation
+* 📌 Dynamic KPI Cards
+* 🔍 Key Insights
+* 🥇 Analyze Olympic participation trends over time.
+* 🌍 Compare medal-winning performance across countries.
+* 🏆 Identify the top-performing athletes in Olympic history.
+* 🏅 Explore medal distribution across different sports.
+* 👥 Understand gender participation across Olympic events.
+* 🗺️ Visualize the global distribution of Olympic medals.
+* 🛠️ Tools & Technologies
+* 📊 Power BI
+* 🧹 Power Query (Data Cleaning & Transformation)
+* 📐 DAX (Data Analysis Expressions)
+* 📂 Data Modeling
+* 📈 Interactive Visualizations
+* 🎨 Dashboard Design
+* 🚀 Skills Demonstrated
+* 📊 Data Visualization 
+* 📈 Business Intelligence
+* 🧹 Data Cleaning & Transformation
+* 📌 KPI Design
+* 📊 Dashboard Development
+* 🔍 Data Analysis
+* 📉 Trend Analysis
+* 🌍 Geospatial Visualization
 
 ---
 
