@@ -1,5 +1,5 @@
 
-# 🏅 Olympic Insights Dashboard (Power BI)
+# 🏅 Olympic Insights Dashboard # (Power BI)
 
 ## 📷 Dashboard Preview
 
@@ -8,7 +8,7 @@
 
 
 
-##📖 Project Overview
+## 📖 Project Overview
 
 The Olympic Insights Dashboard is an interactive Power BI dashboard designed to analyze historical Olympic Games data. It provides a comprehensive view of athlete participation, medal distribution, country performance, sports statistics, and global Olympic trends through dynamic visualizations and filters. The dashboard enables users to explore Olympic data by Year, Country, Season, and Gender, making it easy to uncover meaningful insights and support data-driven analysis.
 
