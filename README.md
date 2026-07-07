@@ -3,7 +3,8 @@
 
 ## 📷 Dashboard Preview
 
-<img width="1150" height="646" alt="olympic" src="https://github.com/user-attachments/assets/68dace90-c9aa-4f47-b4a9-b7679caebd32" />
+<img width="1153" height="652" alt="image" src="https://github.com/user-attachments/assets/d9f5d188-25b5-4fe1-be20-5ad406fa48c4" />
+
 
 
 
